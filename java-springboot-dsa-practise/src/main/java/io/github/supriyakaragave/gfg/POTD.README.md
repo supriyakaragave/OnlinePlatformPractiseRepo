@@ -1,4 +1,5 @@
 ### URLify Problem
+[View Code](./POTD.java#L6)
 
 **Problem:**
 Given a string `s`, replace all the spaces in the string with `%20`.
